@@ -1,0 +1,2 @@
+# git-github-best-practice
+这应该是一个在工作中非常实用的工作流程，以及解决实际工作场景的各种问题的git以及github的最佳实践
